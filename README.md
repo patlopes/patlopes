@@ -1,4 +1,4 @@
-<img src="patlopes.png" />
+<img src="palopes.png" />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=patlopes&theme=default&show_icons=true" />
